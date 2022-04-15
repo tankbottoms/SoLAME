@@ -1,0 +1,5 @@
+LIBRARY MP3Codec
+EXPORTS
+	GetDriverAuthenticationData	@1
+	AuthenticateDriver			@2
+	GetDriverEntryPoint		@3
